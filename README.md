@@ -42,7 +42,6 @@ Your project needs:
 * Workflow automation → ✅ GPT fallback
 * RAG learning → ✅ Cohere / Claude
 
-👉 So instead of **1 model**, you’re building a **smart AI system (like SAP Joule)**
 
 ---
 
